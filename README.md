@@ -11,9 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira08&layout=compact&theme=tokyonight"/>
 </div>
 
-[![Matheus Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusOliveira08&show_icons=true&theme=tokyonight)](https://github.com/MatheusOliveira08/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira08&layout=compact&theme=tokyonight)](https://github.com/MatheusOliveira08/)
-
-<div>
+<div style="display: inline_block"><br>
   <img align="center" alt="Mt-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Mt-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Mt-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
