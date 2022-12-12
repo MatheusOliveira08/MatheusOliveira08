@@ -5,6 +5,12 @@
 
 ##
 
+<div align="center">
+  <a href="https://github.com/MatheusOliveira08">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusOliveira08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira08&layout=compact&theme=tokyonight"/>
+</div>
+
 [![Matheus Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusOliveira08&show_icons=true&theme=tokyonight)](https://github.com/MatheusOliveira08/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira08&layout=compact&theme=tokyonight)](https://github.com/MatheusOliveira08/)
 
 <div>
@@ -27,3 +33,5 @@
   ![Snake animation](https://github.com/MatheusOliveira08/MatheusOliveira08/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
